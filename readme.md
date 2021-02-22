@@ -97,5 +97,8 @@
 - 当前分支名前有个*
 - git branch 分支名 (创建分支)
 - git checkout 分支名 (切换分支)
+- git merge 分支名 (合并某分支到当前分支)
+- git branch -d 分支名 (删除某分支)
+- git push origin 分支名 (提交某分支到远程)
 ## test分支
 - 添加内容。。。
