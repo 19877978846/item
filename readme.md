@@ -78,3 +78,6 @@
 ## 修改关联的远程仓库地址
 - git remote rm origin (删除原来的地址)
 - git remote add origin 你的ssh地址 (修改关联的地址)
+
+## 其他人修改
+。。。。
