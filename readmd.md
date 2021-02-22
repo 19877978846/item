@@ -68,4 +68,9 @@
 ## 将本地仓库提交到远程仓库
 - git push -u origin master 第一次提交到远程
 - git push 将本地仓库提交到远程仓库
-- -u origin master 设置默认的提交地址和分支
+- -u origin master 设置默认的提交地址和分支 
+
+## 正常提交
+- git add . (提交到暂存区)
+- git commit -m '注释' (提交到本地仓库)
+- git push (提交到远程仓库，(默认提交到origin上的master分支))
