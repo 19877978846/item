@@ -74,3 +74,7 @@
 - git add . (提交到暂存区)
 - git commit -m '注释' (提交到本地仓库)
 - git push (提交到远程仓库，(默认提交到origin上的master分支))
+
+## 修改关联的远程仓库地址
+- git remote rm origin (删除原来的地址)
+- git remote add origin 你的ssh地址 (修改关联的地址)
